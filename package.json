@@ -1,7 +1,7 @@
 {
   "name": "curso-platzi-react-avanzado",
   "version": "1.0.0",
-  "description": "**¡Sígueme en Youtube para más contenido de React y Javascript!** 👉 https://www.youtube.com/midudev",
+  "description": "Aplicación petgram movil con Reactjs",
   "main": "index.js",
   "scripts": {
     "vercel-build": "npm run build",
@@ -11,17 +11,9 @@
     "serve:dev": "webpack --mode=development && npx serve dist -s",
     "test": "cypress open"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/midudev/curso-platzi-react-avanzado.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/midudev/curso-platzi-react-avanzado/issues"
-  },
-  "homepage": "https://github.com/midudev/curso-platzi-react-avanzado#readme",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
